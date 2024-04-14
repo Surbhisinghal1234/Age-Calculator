@@ -66,6 +66,7 @@ button:hover {
   -webkit-background-clip: text;
   background-clip: text;
   color: transparent;
+  text-align: center;
 }
 .container {
   display: flex;
